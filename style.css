@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+#card {
+    margin: auto;
+    padding: 10px;
+    height: 460px;
+    width: 300px;
+    background-color: #CC8284;
+    border-radius: 50px;
+}
+#pic {
+    width: 200px;
+    height: 200px;
+    background-color: #36CACC;
+    text-decoration: overline;
+    text-align: left;
+    color: #D515D4;
+}
+h1 {
+    width: 200px;
+    height: 200px;
+    background-color: #9230D3;
+    border-radius: 180px;
+    text-align: center;
+}
+#card img {
+}
+h2 {
+}
